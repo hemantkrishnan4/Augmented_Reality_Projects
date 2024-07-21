@@ -74,7 +74,6 @@ This project is licensed under the MIT License.
 ## Reference
 
 This project was developed with the help of [this video tutorial](https://www.youtube.com/watch?v=WzfDo2Wpxks&t=33748s).
-```
 
 
 
